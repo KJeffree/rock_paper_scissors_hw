@@ -1,0 +1,9 @@
+body {
+  background-color: #81D4FA;
+  color: #01579B
+}
+
+body.home {
+  background-color: #FFE082;
+  color: #E64A19
+}
